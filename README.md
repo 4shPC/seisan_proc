@@ -59,7 +59,7 @@
 4. in the second graph, press *'A'* (note that the options in seisan are case sensitive and should treated as such) to initiate an auto-amplitude, it will be denoted with **IAML** notion --> Plot it (this will save the amplitude on the current graph)
 
 
-5. select the zone back and forth of the primary point (```Ip```), delete the previous ```Ip``` (by bressing 3 on the original ```Ip```, it will 'D' on top of it, signifying that its being deleted) and select a new precise ```Ip```, by hitting 3 --> save this by using the Plot command.
+5. select the zone back and forth of the primary point (```Ip```), delete the previous ```Ip``` (by pressing 3 on the original ```Ip```, it will 'D' on top of it, signifying that its being deleted) and select a new precise ```Ip```, by hitting 3 --> save this by using the Plot command.
 
 6. similarly, check the secondary point (```Is```), and do the necessary changes accordingly.
 
