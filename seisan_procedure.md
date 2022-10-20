@@ -29,7 +29,7 @@
 
 3. Click 'a' to select the highest amplitude in the wave and 'a' to again select the lowest amplitude. *as shown in the picture below*
 
-![Amplitude](amplitude.png)
+![Amplitude](photos/amplitude.png)
 
 4. Type 1 --> Type y
 5. hit ok
@@ -42,7 +42,7 @@
 
 10. If this is acceptable, press *'e'* on top trace and the value are save as am **E-phase**
 
-![Azimuth](azim.png)
+![Azimuth](photos/azim.png)
 
 11. Finally, press **Plot** --> **Toggle** --> **Locate**
 
